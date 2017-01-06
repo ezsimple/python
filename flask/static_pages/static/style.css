@@ -1,0 +1,13 @@
+body {
+background-image: url('images/default.gif');
+}
+
+p#Bread {
+text-align:center;
+color:#ffffff;
+font-size: 200%;
+}
+
+div#Bread {
+background: #f00 !important;
+}
