@@ -10,19 +10,7 @@
 6. pip install Flask
 
 ### 디렉토리 구조
-.  
-├── README.md  
-├── app.py  
-├── env  
-│   ├── bin  
-│   │   ├── activate  
-├── static  
-│   ├── images  
-│   │   └── default.gif  
-│   ├── print.css  
-│   └── style.css  
-└── templates  
-    └── hello.html  
+![](https://cloud.githubusercontent.com/assets/4831524/21704067/deb85ec2-d3f9-11e6-8406-2dc3cadd088d.png)
   
 ### 실행
 python app.py
